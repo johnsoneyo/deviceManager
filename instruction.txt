@@ -1,0 +1,6 @@
+-----------------------------------------DEVICE MANAGER RUNNER INSTRUCTIONS----------------------------------------------------
+
+1. run the script included ,(runscript.sh) , it automatically packages the spring boot application and uses the terminal's tty to log
+ while spring boot application is been deployed.
+
+2. open your browser and launch the following url : http://localhost:8080/swagger-ui.html to view documentation 
